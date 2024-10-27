@@ -1,0 +1,6 @@
+Wrote new keypair to /home/abhirupinspace/.config/solana/id.json
+=============================================================================
+pubkey: CSA836DbPxLD1aY2hExMDALYFbx6Ex9YFGLAifm4kNbT
+=============================================================================
+Save this seed phrase and your BIP39 passphrase to recover your new keypair:
+light ignore village you wisdom rich glow pizza attitude suspect parrot torch
